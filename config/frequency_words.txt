@@ -1,9 +1,14 @@
+读书
+畅销书
+热门书
+
 法律
 律师
 法院
 检察院
 
 经济
+金融
 
 社会
 
@@ -12,6 +17,9 @@
 汽车
 驾驶
 超跑
+日系
+马自达
+丰田
 
 比特币
 区块链
@@ -24,43 +32,3 @@ A股
 美元
 人民币
 汇率
-
-DeepSeek
-梁文锋
-
-特斯拉
-马斯克
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
